@@ -5,6 +5,10 @@ products. The application provides a seamless shopping experience for
 customers, a dedicated admin dashboard for product management, secure
 user authentication, and online payment integration.
 
+**Live Website:** https://msr23cs8059-ux.github.io/Hi-Decor/
+
+> Note: The frontend is deployed using GitHub Pages. Some dynamic features may require the backend server to be running.
+
 ## 🚀 Features
 
 ### User Features
